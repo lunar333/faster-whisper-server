@@ -13,4 +13,7 @@ venv/
 # Ignore IDE, Editor Files
 .idea/
 .vscode/
-.fast*/
+faster-whisper-base/
+faster-whisper-medium/
+faster-whisper-small/
+faster-whisper-tiny/
